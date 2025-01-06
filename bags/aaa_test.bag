@@ -1,0 +1,6 @@
+arg(a, 0.5).
+arg(b, 0.5).
+arg(c, 0.5).
+sup(b, a).
+# sup(c, a).
+sup(b, c).
